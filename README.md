@@ -1,5 +1,5 @@
-# CP5-EDGE
-Checkpoint 5 de EDGE computing 1-ESPK 2024 sistema para verificação de temperatura, umidade e luminosidade de uma vinheria. 
+# CP6-EDGE
+Checkpoint 6 de EDGE computing 1-ESPK 2024 sistema para verificação de temperatura, umidade e luminosidade de uma vinheria. 
 
 Grupo: NJ Tech
 <table>
@@ -38,6 +38,8 @@ https://wokwi.com/projects/409870629323275265
 
 
 <h1>Foto do sistema:</h1>
+<img src="https://github.com/user-attachments/assets/f0d5400b-f5d8-4375-90d9-28c4384cb47b"/>
+
 <img src="https://github.com/user-attachments/assets/f0d5400b-f5d8-4375-90d9-28c4384cb47b"/>
 
 <h2>Explicação do projeto</h2>
